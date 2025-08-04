@@ -3,7 +3,7 @@
 
 Implementation of the paper [Enhancing Advanced Visual Reasoning Ability of Large Language Models](https://aclanthology.org/2024.emnlp-main.114/) (EMNLP 2024)
 
-## ⌯⌲ Base: Generating general captions
+## 🚂 Base: Generating general captions
 <pre>
 <code>
 bash scripts/base_general_captioning.sh
@@ -18,14 +18,14 @@ bash scripts/base_llama3.sh
 </code>
 </pre>
 
-## ⌯⌲ CaID: Generating sub-questions
+## 🚂 CaID: Generating sub-questions
 <pre>
 <code>
 bash scripts/caid_generating_questions_instruct.sh # LLM: meta-llama/Meta-Llama-3-8B-Instruct
 </code>
 </pre>
 
-## ⌯⌲ CaID: Generating refined captions
+## 🚂 CaID: Generating refined captions
 <pre>
 <code>
 bash scripts/caid_refining_captions.sh
@@ -39,21 +39,21 @@ bash scripts/caid_gpt4.sh
 </code>
 </pre>
 
-## ⌯⌲ CVR-ICL: Encoding multimodal prompts
+## 🚂 CVR-ICL: Encoding multimodal prompts
 <pre>
 <code>
 bash scripts/icl_multimodal_encoding.sh
 </code>
 </pre>
 
-## ⌯⌲ CVR-ICL: Encoding text prompts
+## 🚂 CVR-ICL: Encoding text prompts
 <pre>
 <code>
 bash scripts/icl_text_encoding.sh
 </code>
 </pre>
 
-## ⌯⌲ CVR-ICL: Calculating similarity for each sample
+## 🚂 CVR-ICL: Calculating similarity for each sample
 <pre>
 <code>
 bash scripts/icl_similarity.sh
