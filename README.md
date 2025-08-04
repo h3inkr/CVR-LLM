@@ -4,11 +4,9 @@
 Implementation of the paper [Enhancing Advanced Visual Reasoning Ability of Large Language Models](https://aclanthology.org/2024.emnlp-main.114/) (EMNLP 2024)
 
 ## 🚂 Base: Generating general captions
-<pre>
 <code>
 bash scripts/base_general_captioning.sh
 </code>
-</pre>
 
 ## 📝 Base: Inference
 <pre>
