@@ -19,14 +19,14 @@ bash scripts/base_llama3.sh
 </code>
 </pre>
 
-## 🚂 CaID: Generating sub-questions
+## Part 2. CaID
+### Generating sub-questions
 <pre>
 <code>
 bash scripts/caid_generating_questions_instruct.sh # LLM: meta-llama/Meta-Llama-3-8B-Instruct
 </code>
 </pre>
 
-## Part 2. CaID
 ### Generating refined captions
 <pre>
 <code>
